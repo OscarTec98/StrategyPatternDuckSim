@@ -10,6 +10,7 @@ namespace patojuego.PATO
     {
         static void Main(string[] args)
         {
+            //Ejemplo de instanciacion de un pato modelo para comprobar funcionalidad
             Pato modelo = new ModelDuck();
             modelo.PerformQuack();
             modelo.PerformFly();
