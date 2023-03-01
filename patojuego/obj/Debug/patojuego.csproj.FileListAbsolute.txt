@@ -1,0 +1,8 @@
+D:\Topicos Avanzados Programacion\patojuego\patojuego\bin\Debug\patojuego.exe.config
+D:\Topicos Avanzados Programacion\patojuego\patojuego\bin\Debug\patojuego.exe
+D:\Topicos Avanzados Programacion\patojuego\patojuego\bin\Debug\patojuego.pdb
+D:\Topicos Avanzados Programacion\patojuego\patojuego\obj\Debug\patojuego.csproj.AssemblyReference.cache
+D:\Topicos Avanzados Programacion\patojuego\patojuego\obj\Debug\patojuego.csproj.SuggestedBindingRedirects.cache
+D:\Topicos Avanzados Programacion\patojuego\patojuego\obj\Debug\patojuego.csproj.CoreCompileInputs.cache
+D:\Topicos Avanzados Programacion\patojuego\patojuego\obj\Debug\patojuego.exe
+D:\Topicos Avanzados Programacion\patojuego\patojuego\obj\Debug\patojuego.pdb
